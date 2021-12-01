@@ -1,0 +1,17 @@
+{
+  "name": "dialpad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "author": "",
+  "license": "ISC",
+  "browswerlist": [
+    "last 1 chrome versions"
+  ],
+  "dependencies": {
+    "parcel": "^2.0.1"
+  }
+}

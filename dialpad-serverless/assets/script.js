@@ -3,9 +3,9 @@ const numDialed = document.getElementById('output')
 const makeCall = document.getElementById('call');
 const deleteDialedNumber = document.querySelector('.fa-long-arrow-left');
 
-const accountSid = 'AC895cd5a77d0ac350b4c4f4fe836b7187';
-const authToken = '56f44513d7209a9db64ae85bc6f7596d';
-const hubApiKey = '634e31ac-08be-4675-8247-68c04859eda2'
+const accountSid = '';
+const authToken = '';
+const hubApiKey = '
 
 let calling = "";
 
